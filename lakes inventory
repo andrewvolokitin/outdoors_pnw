@@ -1,0 +1,408 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timothy Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78662300109863,
+          45.11999227733756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clear Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.70568466186523,
+          45.180584858570136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harriet Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96208238601683,
+          45.07361152693845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buck Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.87187433242796,
+          45.110922063794064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dinger Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84430122375488,
+          45.14530250713778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hideaway Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96779012680054,
+          45.121627487983254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shellrock Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.97141647338867,
+          45.13543406459043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frog Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6948699951172,
+          45.218702135882275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twin Lake, South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.67984962463379,
+          45.237970289992234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twin Lake, North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.67712450027466,
+          45.246461316055594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trillium Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73945903778075,
+          45.26972203741686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirror Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79275989532469,
+          45.29710913206083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burnt Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80230855941771,
+          45.35079563011721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurance Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6656446456909,
+          45.459739322852414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lost Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.82172775268553,
+          45.48908041659671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18307495117188,
+          44.710756155857744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tumble Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22633361816406,
+          44.74731234922218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elk Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12028980255126,
+          44.82279062937694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunlap Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.09548473358154,
+          44.81779834482913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twin Lake, Upper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.11992502212523,
+          44.85738988584022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twin Lake, Lower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10915327072144,
+          44.855792752378385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ollalie Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78713798522949,
+          44.806868603397625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.805602312088,
+          44.82565947535982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Island Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74827814102171,
+          44.795312488103136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monon Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78718090057373,
+          44.792799982839654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breitenbush Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77831888198853,
+          44.76937512643721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harvey Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.76889896392822,
+          44.75240216271544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Hilda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77340507507324,
+          44.75482500028713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.81389570236206,
+          44.79636313968572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horseshoe Lake?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78527116775514,
+          44.77843853552886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "View Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7888331413269,
+          44.76942082786606
+        ]
+      }
+    }
+  ]
+}
